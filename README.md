@@ -1,4 +1,4 @@
-# NeuroPulse Analyzer: The Pulse Of Tomorrow
+# NeuroPulse Analyzer: The Pulse Of Tomorrow.
 
 ## Development of a Control Strategy for Spinal Cord Stimulation to Improve Walking Movements
 
